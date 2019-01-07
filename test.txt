@@ -1,4 +1,9 @@
 Hello World yonghao89 haha 
 yonghao li
+<<<<<<< HEAD
 hahff
 
+=======
+hah
+nwe branch
+>>>>>>> new_branch
